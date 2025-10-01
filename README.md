@@ -29,7 +29,3 @@ Pots contactar amb mi per compartir coneixement o ajudar en exercicis.
 ## 📫 Contacte
 
 ✉️ Correu: [rodixleonel.fabian@iesantpol.cat](url)
-🔗 LinkedIn 
-📝 Llicència
-
-El codi dels meus repositoris té la llicència indicada a cada projecte.
