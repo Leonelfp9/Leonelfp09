@@ -1,4 +1,4 @@
-## Hola, sóc en Leonel 👋 , estudiant de 1r de Batxillerat Tecnològic.
+# Hola, sóc en Leonel 👋 , estudiant de 1r de Batxillerat Tecnològic.
 
 
 ⚽ M'agrada molt l'esport: faig gimnàs i practico BJJ.
@@ -28,8 +28,8 @@ Pots contactar amb mi per compartir coneixement o ajudar en exercicis.
 
 ## 📫 Contacte
 
-✉️ Correu: afegeix el teu correu si vols
-🔗 LinkedIn (si tens)
+✉️ Correu: [rodixleonel.fabian@iesantpol.cat](url)
+🔗 LinkedIn 
 📝 Llicència
 
 El codi dels meus repositoris té la llicència indicada a cada projecte.
