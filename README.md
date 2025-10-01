@@ -8,16 +8,21 @@
 Aquí aniré penjant els meus projectes de classe i pràctiques:
 
 Exercicis de programació
+
 Projectes de robòtica
+
 Apunts i experiments
 
 ## Eines i coneixements
 Idiomes de programació: (aprenent) Python, C++
+
 Eines: GitHub, Markdown,IA
 
 ## Què estic aprenent ara
 Conceptes bàsics de programació
+
 Ús de Git i GitHub
+
 Treball en equip i documentació de projectes
 
 
